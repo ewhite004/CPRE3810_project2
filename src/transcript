@@ -1,0 +1,354 @@
+# //  Questa Sim-64
+# //  Version 2026.2 linux_x86_64 May 18 2026
+# //
+# // Unpublished work. Copyright 2026 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:45:53 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(16): near "signal": (vcom-1576) expecting END.
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(20): near "myC": (vcom-1576) expecting BEGIN.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(20): VHDL Compiler exiting
+# vcom: End time: 12:45:53 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:46:12 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(17): near "signal": (vcom-1576) expecting ';'.
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(21): near "myC": (vcom-1576) expecting BEGIN.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(21): VHDL Compiler exiting
+# vcom: End time: 12:46:12 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:46:15 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(21): near "myC": (vcom-1576) expecting BEGIN.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(21): VHDL Compiler exiting
+# vcom: End time: 12:46:16 on Oct 28,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:46:37 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(8): near "component": syntax error
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(8): VHDL Compiler exiting
+# vcom: End time: 12:46:37 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:47:10 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(22): near "myC": (vcom-1576) expecting BEGIN.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(22): VHDL Compiler exiting
+# vcom: End time: 12:47:10 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:47:38 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(25): near ";": (vcom-1576) expecting ',' or ')'.
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): near "tb": (vcom-1576) expecting ';'.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): VHDL Compiler exiting
+# vcom: End time: 12:47:38 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:47:47 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(24): near ";": (vcom-1576) expecting ',' or ')'.
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): near "tb": (vcom-1576) expecting ';'.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): VHDL Compiler exiting
+# vcom: End time: 12:47:47 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:48:02 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(24): near ";": (vcom-1576) expecting ',' or ')'.
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): near "tb": (vcom-1576) expecting ';'.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): VHDL Compiler exiting
+# vcom: End time: 12:48:02 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:48:44 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): near "tb": (vcom-1576) expecting ';'.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): VHDL Compiler exiting
+# vcom: End time: 12:48:44 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:07 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): near "tb": (vcom-1576) expecting ';'.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(31): VHDL Compiler exiting
+# vcom: End time: 12:49:07 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:22 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(83): near "end": (vcom-1576) expecting ';'.
+# vcom: End time: 12:49:22 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:30 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(83): near "end": (vcom-1576) expecting ';'.
+# vcom: End time: 12:49:31 on Oct 28,2026, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:36 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(60): (vcom-1272) Length of expected is 7; length of actual is 0.
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(63): (vcom-1272) Length of expected is 7; length of actual is 0.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(83): VHDL Compiler exiting
+# vcom: End time: 12:49:36 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:37 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(60): (vcom-1272) Length of expected is 7; length of actual is 0.
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(63): (vcom-1272) Length of expected is 7; length of actual is 0.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(83): VHDL Compiler exiting
+# vcom: End time: 12:49:37 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:49:53 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# vcom: End time: 12:49:53 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.control_tb -voptargs=+acc
+# ** Note: (vsim-220) '/usr/local/mentor/questasim/linux_x86_64/../questa.ini' is used as the ini file.
+# vsim work.control_tb -voptargs="+acc" 
+# Start time: 12:50:07 on Oct 28,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility. The +acc switch would be deprecated in a future release.
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(23): (vopt-1270) Bad default binding for component instance "myC: control".
+#  (Component port "useImm" is not on the entity "work.control".)
+#  (Entity is selected because it is in the same library as the design unit that contains the component.)
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=1.
+# Error loading design
+# vsim: End time: 12:50:07 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:50:58 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# vcom: End time: 12:50:58 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.control_tb
+# ** Note: (vsim-220) '/usr/local/mentor/questasim/linux_x86_64/../questa.ini' is used as the ini file.
+# vsim -voptargs="+acc" work.control_tb 
+# Start time: 12:51:12 on Oct 28,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility. The +acc switch would be deprecated in a future release.
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd(23): (vopt-1270) Bad default binding for component instance "myC: control".
+#  (Component port "useImm" is not on the entity "work.control".)
+#  (Entity is selected because it is in the same library as the design unit that contains the component.)
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=1.
+# Error loading design
+# vsim: End time: 12:51:12 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/control.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:52:14 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/control.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity control
+# -- Compiling architecture dataflow of control
+# vcom: End time: 12:52:14 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 12:52:22 on Oct 28,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/tb/control_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity control_tb
+# -- Compiling architecture mixed of control_tb
+# vcom: End time: 12:52:22 on Oct 28,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.control_tb
+# ** Note: (vsim-220) '/usr/local/mentor/questasim/linux_x86_64/../questa.ini' is used as the ini file.
+# vsim -voptargs="+acc" work.control_tb 
+# Start time: 12:52:29 on Oct 28,2026
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility. The +acc switch would be deprecated in a future release.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.control_tb(mixed)#1
+# Loading work.control(dataflow)#1
+# Saving layout as "Simulate"
+# Saving layout as "Simulate"
+add wave -position insertpoint  \
+sim:/control_tb/myC/useImm \
+sim:/control_tb/myC/s_out_vector \
+sim:/control_tb/myC/regWrite \
+sim:/control_tb/myC/Opcode \
+sim:/control_tb/myC/memWrite \
+sim:/control_tb/myC/memToReg \
+sim:/control_tb/myC/MemRead \
+sim:/control_tb/myC/jalr \
+sim:/control_tb/myC/jal \
+sim:/control_tb/myC/branch \
+sim:/control_tb/myC/auipc \
+sim:/control_tb/myC/ALU_Src \
+sim:/control_tb/myC/ALU_Op
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+run
+# Causality operation skipped due to absence of debug database file

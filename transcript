@@ -1,0 +1,137 @@
+# //  Questa Sim-64
+# //  Version 2026.2 linux_x86_64 May 18 2026
+# //
+# // Unpublished work. Copyright 2026 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+vlib work
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 08:55:24 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# ** Error: (vcom-11) Could not find work.riscv_types. Make sure the top design unit is compiled into the correct library or that the correct library is being referenced.
+# ** Error (suppressible): /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd(23): (vcom-1195) Cannot find expanded name "work.RISCV_types".
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd(23): Unknown expanded name.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd(25): VHDL Compiler exiting
+# vcom: End time: 08:55:24 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/RISCV_types.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 08:56:23 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/RISCV_types.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package RISCV_types
+# -- Compiling package body RISCV_types
+# -- Loading package RISCV_types
+# vcom: End time: 08:56:23 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 08:56:29 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 08:56:29 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 08:56:30 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 08:56:30 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 08:57:46 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 08:57:46 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/Reg.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 09:17:36 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# vcom: End time: 09:17:36 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 09:30:00 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 09:30:00 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 09:30:03 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 09:30:03 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 10:01:01 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# ** Error: /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd(169): near "(": (vcom-1576) expecting MAP.
+# ** Note: /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd(183): VHDL Compiler exiting
+# vcom: End time: 10:01:01 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd
+# QuestaSim-64 vcom 2026.2 Compiler 2026.05 May 18 2026
+# Start time: 10:01:08 on Oct 01,2026
+# vcom -reportprogress 300 -work work /home/ebwhite/LabsCPRE381/Project/proj/src/TopLevel/RISCV_Processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package RISCV_types
+# -- Compiling entity RISCV_Processor
+# -- Compiling architecture structure of RISCV_Processor
+# vcom: End time: 10:01:08 on Oct 01,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
